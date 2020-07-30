@@ -1,4 +1,4 @@
-#This is my first C proggraming.
+# This is my first C proggraming.
 
 
-##It's very spaghetti　
+## It's very spaghetti　
